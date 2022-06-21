@@ -13,3 +13,7 @@ Yesterday: Worked on creating new KYC form in company-app. Discussed with Presto
 Today: Continue building out KYC components to use with Prove. Start removing unused Paywiser/old KYC code.
 Blockers: None.
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
